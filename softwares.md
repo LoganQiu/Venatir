@@ -124,12 +124,12 @@ Further help:
   基于 [mpv](https://github.com/mpv-player/mpv) 的开源视频播放器，界面优雅。
 
 - [VLC](https://www.videolan.org/vlc)/[mpv](https://mpv.io)🖥️🍎<br>
-  VLC 与 mpv 都是开源软件且都有全平台客户端，相比较而言 VLC 有着完善的 GUI（~~但是很丑~~有皮肤插件可以美化）；mpv 界面极简，但拥有最为丰富的功能，需要用快捷键与命令行来执行操作。<br>
+  VLC 与 mpv 都是开源软件且都有全平台客户端，相比较而言 VLC 有着完善的 GUI（<del>但是很丑</del>有皮肤插件可以美化）；mpv 界面极简，但拥有最为丰富的功能，需要用快捷键与命令行来执行操作。<br>
   除此之外还有诸如 MPC 以及其衍生产品 MPC-HC，MPC-BE 等其他本地播放器就不详解了。
 
 ## 截图工具
 
-- ~~[Snipaste](https://www.snipaste.com/)~~🖥️🍎<br>
+- <del>[Snipaste](https://www.snipaste.com/)</del>🖥️🍎<br>
   截图软件，免费版基本满足所有需求，缺点即使专业版也不支持长截图。
 
 - [pixpin](https://pixpin.cn/)（2024/08/08 添加）🖥️🍎<br>
@@ -140,7 +140,7 @@ Further help:
 
 ## Launcher 启动器
 
-- ~~[Fluent Search](https://www.fluentsearch.net/)~~🖥️<br>
+- <del>[Fluent Search](https://www.fluentsearch.net/)</del>🖥️<br>
   （2024/11/02 更新：Fluent Search 更新迭代基本停滞，请切换至其他 Launcher）<br>
   （2025/06/21 更新：已经恢复更新并不知何时发布了 1.0 正式版本，但是与此同时 PowersToys 也推出了 Command Palette 也就是第二代 PowersToys Run，哪个顺手就用哪个吧）<br>
   基于 C# 开发的全功能搜索软件（而且是 Fluent UI！），其搜索能力与功能范围可以几乎替代 [Listary](https://www.listary.com/)。同时，工作流 Workflow 也是其一大特点，基于 C# 语法能完成各种任务。
@@ -154,7 +154,7 @@ Further help:
 
 ## 清理卸载工具
 
-- ~~[Geek Uninstaller](https://geekuninstaller.com)（2024/03/01 添加）~~🖥️<br>
+- <del>[Geek Uninstaller](https://geekuninstaller.com)（2024/03/01 添加）</del>🖥️<br>
   一款免费轻量的强制删除应用的软件，包括不彻底地清除卸载时注册表残留。
 
 - [Uninstall Tool](https://crystalidea.com/uninstall-tool)🖥️<br>
