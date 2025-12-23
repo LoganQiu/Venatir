@@ -174,6 +174,7 @@ Further help:
 其实作为 RSS 阅读器，桌面端有网页也足够，更重要的是在移动端的表现，不过这里也勉强统计一下，诸如 [Feedly](https://feedly.com/)、[Inoreader](https://www.inoreader.com/) 这些老牌的在桌面端只有网页的就不写了。
 
 - [Folo](https://github.com/RSSNext/Folo)（2025/06/06 添加）🖥️🍎<br>
+  （2025/12/23 更新：前一阵子将 AI 概要等功能改成收费，其余功能正常使用）
   最新最强的 RSS 订阅软件，由 RSSHub 作者 [DIYgod](https://github.com/diygod) 带头开发，推荐尝试。
 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)（2024/09/29 添加）🍎<br>
