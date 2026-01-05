@@ -196,6 +196,9 @@ Further help:
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)🖥️<br>
   这是一个用于显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤，很轻量。
 
+- [LiteMonitor](https://github.com/Diorser/LiteMonitor)（2026/01/05 添加）🖥️<br>
+  一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。项目较新，更新频繁，可以尝试一下。
+
 - [iStat Menus](https://bjango.com/mac/istatmenus/)🍎<br>
   大版本付费制，组件样式美观，免费的可以看开源的 [Stats](https://github.com/exelban/stats)。
 
