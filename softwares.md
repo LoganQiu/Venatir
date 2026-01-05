@@ -218,6 +218,14 @@ Further help:
 - [Motrix](https://github.com/agalwood/Motrix)🖥️🍎<br>
   好看，不过相比于 qBittorrent 好像也只剩下好看这个优点了。
 
+## 桌宠
+
+- [Desktop Goose](https://samperson.itch.io/desktop-goose)🖥️🍎<br>
+  在你屏幕上散步的鹅，它会抢走你的鼠标，在你的屏幕上留下泥巴痕迹，给你留言，给你发表情包。（你也可以创建一堆鹅如果你觉得太清闲）
+
+- [BongoCat](https://github.com/ayangweb/BongoCat)🖥️🍎<br>
+  一只可爱的猫猫会和你同步敲击键盘。
+
 ## 专业类
 
 ### Windows 类
