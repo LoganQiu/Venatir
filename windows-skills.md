@@ -237,6 +237,10 @@ netsh int tcp set supplemental template=Compat congestionprovider=BBR2
 
 ## 260 字符路径长度限制
 
+2026.01.05
+
+当前我版本是 Windows 11 专业版 26200.7462，可以在 设置-->系统-->高级 里直接打开“启用长路径功能”，不清楚哪个版本加的功能。
+
 2024.10.11
 
 由官方文档 [最大路径长度限制](https://learn.microsoft.com/zh-cn/windows/win32/fileio/maximum-file-path-limitation) 可知从 Windows 10 版本 1607 开始，许多常见的 Win32 文件和目录函数中删除了 **MAX_PATH** 限制。 要为每个应用程序启用新的长路径行为，必须满足以下两个条件：
