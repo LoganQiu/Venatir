@@ -216,7 +216,7 @@ Further help:
 ## BT 下载器
 
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent)🖥️🍎<br>
-  免费开源使用范围最广的 BT 下载器，我这里更推荐安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)（[为什么？](../2023/why-domestic-bt-env-so-bad)）。
+  免费开源使用范围最广的 BT 下载器，我这里更推荐安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)。
 
 - [Motrix](https://github.com/agalwood/Motrix)🖥️🍎<br>
   好看，不过相比于 qBittorrent 好像也只剩下好看这个优点了。
