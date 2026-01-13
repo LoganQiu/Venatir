@@ -285,3 +285,11 @@ netsh int tcp set supplemental template=Compat congestionprovider=BBR2
 
 1. 借助 DiskGenius 之类的磁盘管理工具扩展 EFI 系统分区。
 2. 将一个容量小于等于 32GB 的 U 盘格式化为 FAT32 格式，卷名改为 HP_TOOLS；或者直接选择第二项 **Create Recovery USB flash drive**。然后插着 U 盘重新运行 BIOS 更新程序。
+
+## 访问网络共享报错“指定网络名不再可用”
+
+2026.01.13
+
+打开控制面板，进入“程序和功能”，选择“启用或关闭 Windows 功能”。
+
+确保勾选了“SMB1.0/CIFS 文件共享支持”，然后点击确定以启用该功能。
