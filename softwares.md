@@ -109,7 +109,7 @@ Further help:
 
 ## 解压缩工具
 
-- [7-Zip](https://www.7-zip.org/)🖥️<br>
+- [7-Zip](https://www.7-zip.org/)💻<br>
   不必多言，自 Bandizip7.0 新版本加入广告后剩下的唯一真神。
 
 - [Keka](https://github.com/aonez/Keka)🍎<br>
@@ -117,22 +117,22 @@ Further help:
 
 ## 视频播放器
 
-- [PotPlayer](https://potplayer.tv)🖥️<br>
+- [PotPlayer](https://potplayer.tv)💻<br>
   PotPlayer 在 2019 年某次更新后开始推送弹窗广告，但据反馈并非所有人都有，笔者习惯此应用并且时至今日也未见过一次，为了保险起见可以考虑把 PotPlayer 加入防火墙禁止联网权限。
 
 - [IINA](https://github.com/iina/iina)🍎<br>
   基于 [mpv](https://github.com/mpv-player/mpv) 的开源视频播放器，界面优雅。
 
-- [VLC](https://www.videolan.org/vlc)/[mpv](https://mpv.io)🖥️🍎<br>
+- [VLC](https://www.videolan.org/vlc)/[mpv](https://mpv.io)💻🍎<br>
   VLC 与 mpv 都是开源软件且都有全平台客户端，相比较而言 VLC 有着完善的 GUI（<del>但是很丑</del>有皮肤插件可以美化）；mpv 界面极简，但拥有最为丰富的功能，需要用快捷键与命令行来执行操作。<br>
   除此之外还有诸如 MPC 以及其衍生产品 MPC-HC，MPC-BE 等其他本地播放器就不详解了。
 
 ## 截图工具
 
-- <del>[Snipaste](https://www.snipaste.com/)</del>🖥️🍎<br>
+- <del>[Snipaste](https://www.snipaste.com/)</del>💻🍎<br>
   截图软件，免费版基本满足所有需求，缺点即使专业版也不支持长截图。
 
-- [pixpin](https://pixpin.cn/)（2024/08/08 添加）🖥️🍎<br>
+- [pixpin](https://pixpin.cn/)（2024/08/08 添加）💻🍎<br>
   应该已经是 Snipaste 上位替代了，功能相当丰富。
 
 - [CleanShot X](https://cleanshot.com/)（2024/12/11 添加）🍎<br>
@@ -140,7 +140,7 @@ Further help:
 
 ## Launcher 启动器
 
-- <del>[Fluent Search](https://www.fluentsearch.net/)</del>🖥️<br>
+- <del>[Fluent Search](https://www.fluentsearch.net/)</del>💻<br>
   （2024/11/02 更新：Fluent Search 更新迭代基本停滞，请切换至其他 Launcher）<br>
   （2025/06/21 更新：已经恢复更新并不知何时发布了 1.0 正式版本，但是与此同时 PowersToys 也推出了 Command Palette 也就是第二代 PowersToys Run，哪个顺手就用哪个吧）<br>
   基于 C# 开发的全功能搜索软件（而且是 Fluent UI！），其搜索能力与功能范围可以几乎替代 [Listary](https://www.listary.com/)。同时，工作流 Workflow 也是其一大特点，基于 C# 语法能完成各种任务。
@@ -149,18 +149,18 @@ Further help:
   Raycast 是一个新兴的启动器，可以高效打开文件、软件、网站并执行各种便捷操作，可以代替 Mac 自带的 Spotlight（焦点）。当然还有老牌的 [Alfred](https://www.alfredapp.com/) 和更适合国人的轻巧型启动器 [HapiGo](https://www.hapigo.com/) 可以自行尝试。
   稍微展开来说，免费版的 Raycast 就已经包含了剪贴板历史记录管理（支持剪贴板图片 OCR）、窗口布局管理（平替 Rectangle）、应用卸载（不好用）等功能，再搭配丰富的插件市场已经是顶级全能手了。
 
-- [uTools](https://u.tools/)🖥️🍎<br>
+- [uTools](https://u.tools/)💻🍎<br>
   很猛很强大，但是过于死板与繁杂，所有插件都以独立进程在后台挂载，我不喜欢。
 
 ## 清理卸载工具
 
-- <del>[Geek Uninstaller](https://geekuninstaller.com)（2024/03/01 添加）</del>🖥️<br>
+- <del>[Geek Uninstaller](https://geekuninstaller.com)（2024/03/01 添加）</del>💻<br>
   一款免费轻量的强制删除应用的软件，包括不彻底地清除卸载时注册表残留。
 
-- [Uninstall Tool](https://crystalidea.com/uninstall-tool)🖥️<br>
+- [Uninstall Tool](https://crystalidea.com/uninstall-tool)💻<br>
   虽然是收费（单次买断），但不得不承认功能强大，能够在安装应用时追踪创建的新文件以及修改的注册表，能够批量彻底删除顽固应用包括清理注册表。
 
-- [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)（2025/09/19 添加）🖥️<br>
+- [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)（2025/09/19 添加）💻<br>
   Geek Uninstaller 有点陈旧了，现在更推荐这款，全方位更有优势。
 
 - [App Cleaner & Uninstaller](https://nektony.com/zh-hans/mac-app-cleaner)🍎<br>
@@ -173,7 +173,7 @@ Further help:
 
 其实作为 RSS 阅读器，桌面端有网页也足够，更重要的是在移动端的表现，不过这里也勉强统计一下，诸如 [Feedly](https://feedly.com/)、[Inoreader](https://www.inoreader.com/) 这些老牌的在桌面端只有网页的就不写了。
 
-- [Folo](https://github.com/RSSNext/Folo)（2025/06/06 添加）🖥️🍎<br>
+- [Folo](https://github.com/RSSNext/Folo)（2025/06/06 添加）💻🍎<br>
   （2025/12/23 更新：前一阵子将 AI 概要等功能改成收费，其余功能正常使用）
   最新最强的 RSS 订阅软件，由 RSSHub 作者 [DIYgod](https://github.com/diygod) 带头开发，推荐尝试。
 
@@ -182,7 +182,7 @@ Further help:
 
 ## 存储空间分析工具
 
-- [Wiztree](https://diskanalyzer.com)🖥️<br>
+- [Wiztree](https://diskanalyzer.com)💻<br>
   硬盘空间分析软件，集 [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer) 与 [TreeSize](https://www.jam-software.com/treesize_free) 大成，提供树状文件图、按文件类型统计等列表，并且直接从主文件记录（MFT）读取数据，拥有最快的扫描速度。如果只想要一个单纯的查找文件应用，那么 [Everything](https://www.voidtools.com/zh-cn/) 是最优的选择。
 
 - [DaisyDisk](https://daisydiskapp.com/)（2025/03/19 添加）🍎<br>
@@ -193,40 +193,40 @@ Further help:
 
 ## 系统监视器
 
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)🖥️<br>
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)💻<br>
   这是一个用于显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤，很轻量。
 
-- [LiteMonitor](https://github.com/Diorser/LiteMonitor)（2026/01/05 添加）🖥️<br>
+- [LiteMonitor](https://github.com/Diorser/LiteMonitor)（2026/01/05 添加）💻<br>
   一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。项目较新，更新频繁，可以尝试一下。
 
 - [iStat Menus](https://bjango.com/mac/istatmenus/)🍎<br>
   大版本付费制，组件样式美观，免费的可以看开源的 [Stats](https://github.com/exelban/stats)。
 
-- [Sniffnet](https://github.com/GyulyVGC/sniffnet)🖥️🍎<br>
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet)💻🍎<br>
   轻松监控网络流量的软件，体积小巧界面美观。
 
 ## 密码管理器
 
-- [Bitwarden](https://bitwarden.com/)🖥️🍎<br>
+- [Bitwarden](https://bitwarden.com/)💻🍎<br>
   开源且免费的全平台密码管理器，官方的自托管需要支付一定费用，当然也可以选择同样开源的非官方兼容版 [Vaultwarden](https://github.com/dani-garcia/vaultwarden) 来 self-hosting。
 
-- [1Password](https://1password.com/)🖥️🍎<br>
+- [1Password](https://1password.com/)💻🍎<br>
   全平台密码管理器，可惜闭源且收费，不过界面更符合交互逻辑，更美观一些，经常会有一年的试用资格发放可以关注一下。
 
 ## BT 下载器
 
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)🖥️🍎<br>
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)💻🍎<br>
   免费开源使用范围最广的 BT 下载器，我这里更推荐安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)。
 
-- [Motrix](https://github.com/agalwood/Motrix)🖥️🍎<br>
+- [Motrix](https://github.com/agalwood/Motrix)💻🍎<br>
   好看，不过相比于 qBittorrent 好像也只剩下好看这个优点了。
 
 ## 桌宠
 
-- [Desktop Goose](https://samperson.itch.io/desktop-goose)🖥️🍎<br>
+- [Desktop Goose](https://samperson.itch.io/desktop-goose)💻🍎<br>
   在你屏幕上散步的鹅，它会抢走你的鼠标，在你的屏幕上留下泥巴痕迹，给你留言，给你发表情包。（你也可以创建一堆鹅如果你觉得太清闲）
 
-- [BongoCat](https://github.com/ayangweb/BongoCat)🖥️🍎<br>
+- [BongoCat](https://github.com/ayangweb/BongoCat)💻🍎<br>
   一只可爱的猫猫会和你同步敲击键盘。
 
 ## 专业类
