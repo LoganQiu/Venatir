@@ -175,3 +175,9 @@ SIP 全称为 System Integrity Protection 即系统完整性保护，具体可�
 
    开启：输入 `csrutil enable`
    关闭：输入 `csrutil disable`
+
+## 取消 Caps Lock 按键延迟
+
+1. 原生办法是在命令行输入 `hidutil property --set '{"CapsLockDelayOverride":50}'`，50 毫秒比较推荐，缺点是重启后便失效。
+2. 如果上述命令无效或者想要重启后依然有效，可以看看这个开源库：<https://github.com/gkpln3/CapsLockNoDelay>
+3. “杀鸡用牛刀”——[Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)，这是一款功能强大的开源键盘自定义工具，它能直接接管键盘驱动，从而完全消除延迟，只需要把 Caps Lock 映射给自己即可。
