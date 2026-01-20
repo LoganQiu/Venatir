@@ -160,6 +160,8 @@ defaults write com.apple.finder QuitMenuItem -bool YES && killall Finder
 
 ## 开启或关闭 SIP
 
+2025.10.10
+
 > [!warning]
 > 务必请先了解什么是 SIP 且知晓关闭后会带来什么隐患再进行操作，并且仍然强烈不建议关闭 SIP。
 
@@ -177,6 +179,8 @@ SIP 全称为 System Integrity Protection 即系统完整性保护，具体可�
    关闭：输入 `csrutil disable`
 
 ## 取消 Caps Lock 按键延迟
+
+2026.01.20
 
 1. 原生办法是在命令行输入 `hidutil property --set '{"CapsLockDelayOverride":50}'`，50 毫秒比较推荐，缺点是重启后便失效。
 2. 如果上述命令无效或者想要重启后依然有效，可以看看这个开源库：<https://github.com/gkpln3/CapsLockNoDelay>
