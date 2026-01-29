@@ -221,6 +221,11 @@ Further help:
 - [Motrix](https://github.com/agalwood/Motrix)💻🍎<br>
   好看，不过相比于 qBittorrent 好像也只剩下好看这个优点了。
 
+## 输入法
+
+- [RIME](https://github.com/rime)💻🍎<br>
+  开源的输入法蛮好用，推荐配置 [雾凇拼音](https://github.com/iDvel/rime-ice)。
+
 ## 桌宠
 
 - [Desktop Goose](https://samperson.itch.io/desktop-goose)💻🍎<br>
