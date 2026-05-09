@@ -178,7 +178,8 @@ Further help:
   最新最强的 RSS 订阅软件，由 RSSHub 作者 [DIYgod](https://github.com/diygod) 带头开发，推荐尝试。
 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)（2024/09/29 添加）🍎<br>
-  开源 RSS 阅读器，或者去外区商店下载更优雅的但买断制 Reeder Classic. 或者订阅制 Reeder.（这俩是同一个开发者，后者是新应用可以支持播客与视频的跟踪）。
+  开源 RSS 阅读器。<br>
+  或者去外区商店下载更优雅的但买断制 Reeder Classic. 或者订阅制 Reeder.（这俩是同一个开发者，后者是新应用可以支持播客与视频的跟踪）。
 
 ## 存储空间分析工具
 
@@ -189,7 +190,7 @@ Further help:
   用旭日图展示磁盘空间分布，操作体验和视觉效果都非常出色，买断制价格适中。
 
 - [OmniDiskSweeper](https://www.omnigroup.com/more)（2025/05/09 添加）🍎<br>
-  免费，可以 DaisyDisk 替代品。
+  免费，可以当 DaisyDisk 替代品。
 
 ## 系统监视器
 
@@ -218,8 +219,10 @@ Further help:
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent)💻🍎<br>
   免费开源使用范围最广的 BT 下载器，我这里更推荐安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)。
 
-- [Motrix](https://github.com/agalwood/Motrix)💻🍎<br>
-  好看，不过相比于 qBittorrent 好像也只剩下好看这个优点了。
+- <del>[Motrix](https://github.com/agalwood/Motrix)</del>💻🍎<br>
+  <del>好看，不过相比于 qBittorrent 好像也只剩下好看这个优点了。</del>
+
+  Motrix 自 2024 年起停更，可以看新的精神继任者 [Motrix Next](https://github.com/AnInsomniacy/motrix-next)（2026/05/09 添加）
 
 ## 输入法
 
