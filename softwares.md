@@ -275,7 +275,13 @@ Further help:
   常见的过滤规则：<https://ceadd.ca/blockyouxlist.txt>
 
 - [SoundSource](https://rogueamoeba.com/soundsource/)（2024/11/04 添加）<br>
-  macOS 上顶级的声音控制软件，可以控制每个应用的声音大小音效，以及输出设备等等等等。
+  macOS 上顶级的声音控制软件，可以单独调整每个应用的声音大小，EQ 值，以及切换输出设备等等。
+
+  [Sound Control](https://staticz.com/soundcontrol/)（2026/05/12 添加）<br>
+  和 SoundSource 不分伯仲。
+
+  [FineTune](https://github.com/ronitsingh10/FineTune)（2026/05/12 添加）<br>
+  开源，迭代迅速，可以尝试。
 
 - [AlDente](https://apphousekitchen.com/)（2024/11/05 添加）<br>
   买断制，电池保护工具，电池使用策略详细且有效，如果想要简单些可以看看开源的 [battery](https://github.com/actuallymentor/battery)。
